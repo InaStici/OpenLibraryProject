@@ -1,0 +1,6 @@
+urls:
+  homePageUrl: "https://openlibrary.org/"
+timeouts:
+  timeout: 10
+driver:
+  driverPath: ""/src/test/resources/driver/chromedriver.exe"
